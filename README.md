@@ -8,7 +8,13 @@ This repository stores the dataset introduced in the 'Accurate 3D Automatic Anno
 The dataset is made freely available for non-commercial research purposes only. The full dataset (~107 GB) can be downloaded from this [link](https://aimotive-dataset.s3.amazonaws.com/aimotive_tl_ts_dataset.zip).
 
 ### Videos
-![](my_video.mov)
+https://github.com/user-attachments/assets/f636a985-f7c9-48a2-a7ec-193f693f86ec
+
+https://github.com/user-attachments/assets/bad33f4b-809f-436d-966c-254e2428fe60
+
+https://github.com/user-attachments/assets/011a83e1-113a-4c7b-bc7b-af8fa8aa8d43
+
+
 
 
 ### Updates
@@ -19,4 +25,8 @@ The dataset is made freely available for non-commercial research purposes only. 
 - Include file structure description
 - Define coordinate systems
 - Upload the dataset loader and visualizer
+
+
+
+
 - Add citation
