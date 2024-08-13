@@ -1,4 +1,4 @@
-# aiMotive 3D Traffic Light and Traffic Dataset
+# aiMotive 3D Traffic Light and Traffic Sign Dataset
 This repository stores the dataset introduced in the 'Accurate 3D Automatic Annotation of Traffic Lights and Signs for Autonomous Driving' paper. The dataset consists of 3D bounding boxes of traffic lights and traffic signs up to 200 meters from the ego vehicle.
 
 ## Abstract
