@@ -10,7 +10,10 @@ Another option is to use wget for downloading.
 ```
 wget https://aimotive-dataset.s3.amazonaws.com/aimotive_tl_ts_dataset.zip
 ```
-
+Yet another option is [AWS Command Line Interface](https://aws.amazon.com/cli/).
+```
+aws s3 cp --no-sign-request s3://aimotive-dataset/aimotive_tl_ts_dataset.zip .
+```
 
 ### Videos
 https://github.com/user-attachments/assets/f636a985-f7c9-48a2-a7ec-193f693f86ec
