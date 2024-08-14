@@ -6,6 +6,11 @@ This repository stores the dataset introduced in the 'Accurate 3D Automatic Anno
 
 ### Download
 The dataset is made freely available for non-commercial research purposes only. The full dataset (~107 GB) can be downloaded from this [link](https://aimotive-dataset.s3.amazonaws.com/aimotive_tl_ts_dataset.zip).
+Another option is to use wget for downloading.
+```
+wget https://aimotive-dataset.s3.amazonaws.com/aimotive_tl_ts_dataset.zip
+```
+
 
 ### Videos
 https://github.com/user-attachments/assets/f636a985-f7c9-48a2-a7ec-193f693f86ec
