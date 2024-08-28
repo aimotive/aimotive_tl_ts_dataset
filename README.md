@@ -15,6 +15,9 @@ Yet another option is [AWS Command Line Interface](https://aws.amazon.com/cli/).
 aws s3 cp --no-sign-request s3://aimotive-dataset/aimotive_tl_ts_dataset.zip .
 ```
 
+### Dataset loader and renderer
+A dataset renderer and a PyTorch data loader example can be found in this [repository](https://github.com/aimotive/aimotive-dataset-loader/tree/aimotive-tlts-dataset-loader).
+
 ### Videos
 https://github.com/user-attachments/assets/f636a985-f7c9-48a2-a7ec-193f693f86ec
 
@@ -126,9 +129,9 @@ The sensor layout is illustrated by the following figure:
 - The camera sensors are rolling shutter-type sensors. This means that the exposure starts from the top of the sensor, going downwards, row by row.
 
 ### Updates
+- [Aug 28, 2024] Link added for the dataset loader and visualizer.
 - [Aug 27, 2024] Descriptions added for file structure, sensor setup and coordinate systems.
 - [Aug 13, 2024] We released the 3D Traffic Light and Traffic Sign dataset.
 
 ### TODO
-- Upload the dataset loader and visualizer
 - Add citation
