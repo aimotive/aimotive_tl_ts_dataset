@@ -129,13 +129,23 @@ The sensor layout is illustrated by the following figure:
 - The camera sensors are rolling shutter-type sensors. This means that the exposure starts from the top of the sensor, going downwards, row by row.
 
 ### Cite our work
-If you use this code or aiMotive 3D Traffic Light and Traffic Sign Dataset in your research, please cite our by using the following BibTeX entry:
+If you use this code or aiMotive 3D Traffic Light and Traffic Sign Dataset in your research, please cite our [work](https://arxiv.org/abs/2409.12620v1) by using the following BibTeX entries:
 
 ```latex
 @article{kunsagi2024aimotive,
   title={Accurate Automatic 3D Annotation of Traffic Lights and Signs for Autonomous Driving},
   author={Kuns{\'a}gi-M{\'a}t{\'e}, S{\'a}ndor and Pet{\H{o}}, Levente and Seres, Lehel and Matuszka, Tam{\'a}s},
   booktitle={European Conference on Computer Vision 2024 Workshop on Vision-Centric Autonomous Driving}
+}
+
+@misc{kunságimáté2024accurateautomatic3dannotation,
+      title={Accurate Automatic 3D Annotation of Traffic Lights and Signs for Autonomous Driving}, 
+      author={Sándor Kunsági-Máté and Levente Pethő and Lehel Seres and Tamás Matuszka},
+      year={2024},
+      eprint={2409.12620},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.12620}, 
 }
 ```
 
