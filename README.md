@@ -14,6 +14,7 @@ Yet another option is [AWS Command Line Interface](https://aws.amazon.com/cli/).
 ```
 aws s3 cp --no-sign-request s3://aimotive-dataset/aimotive_tl_ts_dataset.zip .
 ```
+[Kaggle](https://www.kaggle.com/datasets/tamasmatuszka/aimotive-3d-traffic-light-and-sign-dataset/) provides an alternative option for using the dataset.
 
 ### Dataset loader and renderer
 A dataset renderer and a PyTorch data loader example can be found in this [repository](https://github.com/aimotive/aimotive-dataset-loader/tree/aimotive-tlts-dataset-loader).
